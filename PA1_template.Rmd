@@ -1,5 +1,5 @@
 # Reproducible Research: Peer Assessment 1
-
+This project is focused on the use of knitr and R markdown and publishing results on github.
 
 ## Loading and preprocessing the data
 
